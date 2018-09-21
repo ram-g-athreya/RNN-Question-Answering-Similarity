@@ -1,0 +1,11 @@
+checkpoints/
+data/
+lib/*.class
+lib/stanford-parser
+lib/stanford-tagger
+.ftpconfig
+.ftpignore
+.vscode/
+.ipynb_checkpoints/
+analysis
+.word_vectors_cache
